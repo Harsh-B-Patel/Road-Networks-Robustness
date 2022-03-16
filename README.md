@@ -6,10 +6,10 @@ With increasing population, traffic congestion has become a common problem in mo
 Traffic congestion negatively impacts people’s work efficiency and
 social development. According to a report, nine out of the twelve
 Canadian cities studied, experienced more traffic congestion in 2019
-than they did in 2018 [2]. Conditions worsen at rush hour, drivers
+than they did in 2018. Conditions worsen at rush hour, drivers
 with a 30-minute commute each way will spend an extra 17 minutes
 in the morning and an extra 21 minutes in the afternoon on the road
-[2]. Thus, road construction and design is highly comprehensive
+. Thus, road construction and design is highly comprehensive
 and complex work.
 
 Our goal is to propose a smart traffic application for road construction based on the city map networks. It can evaluate the city
