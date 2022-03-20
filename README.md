@@ -1,4 +1,4 @@
-# Road-Networks-Robustness
+# Road Network's Robustness
 
 ### Abstract
 
@@ -12,7 +12,7 @@ in the morning and an extra 21 minutes in the afternoon on the road
 . Thus, road construction and design is highly comprehensive
 and complex work.
 
-Our goal is to propose a smart traffic application for road construction based on the city map networks. It can evaluate the city
+Our goal is to propose a smart traffic methodology for road construction based on the city map networks. It can evaluate the city
 roads to determine if an alternate route exists during the traffic jam
 for emergency vehicles or if a better road infrastructure is needed
 for some existing road. Our application can help improve the quality of city roads. The application can be used by city planners or
